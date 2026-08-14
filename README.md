@@ -66,6 +66,8 @@ The Workforce Overview page provides a high-level view of the organization's wor
 * Workforce analysis by department
 * Employee distribution analysis
 
+![Workforce Overview](Dashboard/Workforce_overview.png)
+
 ---
 
 ### 2. Attrition Analysis
@@ -80,6 +82,8 @@ The Attrition Analysis page focuses on employee turnover and hiring trends.
 * Attrition analysis
 * Hiring trend analysis
 * Department-level attrition comparison
+
+![Attrition Analysis](Dashboard/Attrition_analysis.png)
 
 ---
 
@@ -97,6 +101,7 @@ The Compensation page focuses on salary and training investment across departmen
 * Employee Count by Above/Below Average Salary
 * Compensation analysis
 
+![Compensation](Dashboard/Compensation.png)
 
 ## 🎯 Key KPIs
 
@@ -146,28 +151,6 @@ The Compensation page focuses on salary and training investment across departmen
 * Workforce Segmentation
 
 ---
-
-## 📸 Dashboard Screenshots
-
-### Workforce Overview
-
-![Workforce Overview](screenshots/workforce-overview.png)
-
----
-
-### Attrition Analysis
-
-![Attrition Analysis](screenshots/attrition-analysis.png)
-
----
-
-### Compensation
-
-![Compensation](screenshots/compensation.png)
-
----
-
-
 
 ## 📂 Project Structure
 
